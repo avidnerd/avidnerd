@@ -13,13 +13,13 @@ hi! I'm a high schooler interested in machine learning & tech applications to va
 
 ### Current and Past Projects
 
-i'll put this on my currently nonexistent website!
+information can be found on my website: https://avidnerd.vercel.app/
 
 ---
 
 ### Let’s Connect!
 
-- **Email:** subhisuper [at] gmail.com  
+- **Email:** subhi.k.steph [at] gmail.com  
 
 ---
 
