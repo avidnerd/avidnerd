@@ -17,7 +17,7 @@ long term, I hope to build technologies that make healthcare more accessible. ou
 
 ### What I'm Working On
 
-- **[Inoki Labs](https://avidnerd.vercel.app/)**: building automated adversarial testing and improvement pipelines for robot learning in simulation.
+- **[Inoki Labs](https://inokilabs.tech)**: building automated adversarial testing and improvement pipelines for robot learning in simulation.
 - **Grill Lab @ Duke**: researching computational modeling of neural stimulation and applications in neuroengineering.
 - **Biomedical AI & Software**: exploring surgical planning, medical imaging, and tools that connect AI research with clinical applications.
 
